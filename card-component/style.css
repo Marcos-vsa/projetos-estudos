@@ -84,9 +84,9 @@ body{
 }
 .image-purple{
     background-color: #a249da;
+    opacity: 0.6;
     width: 600px;
     height: 500px;
-    opacity: 0.6;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
 }
