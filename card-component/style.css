@@ -82,7 +82,8 @@ body{
     flex-direction: column;
 }
 .image-purple{
-    background-color: #a249da71; 
+    background-color: #a249da71;
+    opacity: 0.6; 
     width: 600px;
     height: 500px;
     border-top-right-radius: 10px;
