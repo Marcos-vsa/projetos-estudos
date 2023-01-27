@@ -80,11 +80,9 @@ body{
 .text-numbers-box{
     display: flex;
     flex-direction: column;
-   
 }
 .image-purple{
-    background-color: #a249da;
-    opacity: 0.6;
+    background-color: #a249da71; 
     width: 600px;
     height: 500px;
     border-top-right-radius: 10px;
